@@ -1,7 +1,7 @@
 url: https://api.opentrustseal.com/health
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2026-04-30T23:44:28.093Z
+status: down
+code: 502
+responseTime: 524
+lastUpdated: 2026-05-01T12:38:53.960Z
 startTime: 2026-04-23T04:21:41.309Z
 generator: Upptime <https://github.com/upptime/upptime>
